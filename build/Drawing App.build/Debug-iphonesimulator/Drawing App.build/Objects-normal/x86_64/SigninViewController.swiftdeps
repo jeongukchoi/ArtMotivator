@@ -1,0 +1,344 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SigninViewController"
+provides-nominal:
+- "C11Drawing_App20SigninViewController"
+provides-member:
+- ["C11Drawing_App20SigninViewController", ""]
+provides-dynamic-lookup:
+- "signinImageView"
+- "viewDidLoad"
+- "signinTitleLabel"
+- "passwordField"
+- "signinButton"
+- "usernameField"
+depends-top-level:
+- "UIImageView"
+- "UIViewController"
+- !private "StringLiteralType"
+- !private "UIImage"
+- "UIButton"
+- "AssignmentPrecedence"
+- "UILabel"
+- "SigninViewController"
+- "UITextField"
+depends-member:
+- !private ["Ps9AnyObject", "UIImage"]
+- !private ["Ps9AnyObject", "image"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "passwordField"]
+- ["Ps9AnyObject", "signinButton"]
+- ["Ps9AnyObject", "signinImageView"]
+- ["Ps9AnyObject", "signinTitleLabel"]
+- ["Ps9AnyObject", "usernameField"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["PSo15CALayerDelegate", "image"]
+- !private ["Ps7CVarArg", "UIImage"]
+- !private ["Ps7CVarArg", "image"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "passwordField"]
+- ["Ps7CVarArg", "signinButton"]
+- ["Ps7CVarArg", "signinImageView"]
+- ["Ps7CVarArg", "signinTitleLabel"]
+- ["Ps7CVarArg", "usernameField"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImage"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "passwordField"]
+- ["Ps28CustomDebugStringConvertible", "signinButton"]
+- ["Ps28CustomDebugStringConvertible", "signinImageView"]
+- ["Ps28CustomDebugStringConvertible", "signinTitleLabel"]
+- ["Ps28CustomDebugStringConvertible", "usernameField"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "UIImage"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "passwordField"]
+- ["Ps23CustomStringConvertible", "signinButton"]
+- ["Ps23CustomStringConvertible", "signinImageView"]
+- ["Ps23CustomStringConvertible", "signinTitleLabel"]
+- ["Ps23CustomStringConvertible", "usernameField"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "UIImage"]
+- !private ["Ps9Equatable", "image"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "passwordField"]
+- ["Ps9Equatable", "signinButton"]
+- ["Ps9Equatable", "signinImageView"]
+- ["Ps9Equatable", "signinTitleLabel"]
+- ["Ps9Equatable", "usernameField"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "UIImage"]
+- !private ["Ps8Hashable", "image"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "passwordField"]
+- ["Ps8Hashable", "signinButton"]
+- ["Ps8Hashable", "signinImageView"]
+- ["Ps8Hashable", "signinTitleLabel"]
+- ["Ps8Hashable", "usernameField"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "UIImage"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "passwordField"]
+- ["PSo8NSCoding", "signinButton"]
+- ["PSo8NSCoding", "signinImageView"]
+- ["PSo8NSCoding", "signinTitleLabel"]
+- ["PSo8NSCoding", "usernameField"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "UIImage"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "passwordField"]
+- ["PSo26NSExtensionRequestHandling", "signinButton"]
+- ["PSo26NSExtensionRequestHandling", "signinImageView"]
+- ["PSo26NSExtensionRequestHandling", "signinTitleLabel"]
+- ["PSo26NSExtensionRequestHandling", "usernameField"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "UIButton"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "UITextField"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "passwordField"]
+- ["CSo8NSObject", "signinButton"]
+- ["CSo8NSObject", "signinImageView"]
+- ["CSo8NSObject", "signinTitleLabel"]
+- ["CSo8NSObject", "usernameField"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "passwordField"]
+- ["PSo16NSObjectProtocol", "signinButton"]
+- ["PSo16NSObjectProtocol", "signinImageView"]
+- ["PSo16NSObjectProtocol", "signinTitleLabel"]
+- ["PSo16NSObjectProtocol", "usernameField"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["C11Drawing_App20SigninViewController", "UIButton"]
+- !private ["C11Drawing_App20SigninViewController", "UIImage"]
+- ["C11Drawing_App20SigninViewController", "UIImageView"]
+- ["C11Drawing_App20SigninViewController", "UILabel"]
+- ["C11Drawing_App20SigninViewController", "UITextField"]
+- ["C11Drawing_App20SigninViewController", "deinit"]
+- ["C11Drawing_App20SigninViewController", "init"]
+- ["C11Drawing_App20SigninViewController", "passwordField"]
+- ["C11Drawing_App20SigninViewController", "signinButton"]
+- ["C11Drawing_App20SigninViewController", "signinImageView"]
+- ["C11Drawing_App20SigninViewController", "signinTitleLabel"]
+- ["C11Drawing_App20SigninViewController", "usernameField"]
+- ["C11Drawing_App20SigninViewController", "viewDidLoad"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo12UIAppearance", "image"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "passwordField"]
+- ["PSo21UIAppearanceContainer", "signinButton"]
+- ["PSo21UIAppearanceContainer", "signinImageView"]
+- ["PSo21UIAppearanceContainer", "signinTitleLabel"]
+- ["PSo21UIAppearanceContainer", "usernameField"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "UIImage"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "passwordField"]
+- ["PSo18UIContentContainer", "signinButton"]
+- ["PSo18UIContentContainer", "signinImageView"]
+- ["PSo18UIContentContainer", "signinTitleLabel"]
+- ["PSo18UIContentContainer", "usernameField"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "image"]
+- !private ["PSo13UIDynamicItem", "image"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "passwordField"]
+- ["PSo18UIFocusEnvironment", "signinButton"]
+- ["PSo18UIFocusEnvironment", "signinImageView"]
+- ["PSo18UIFocusEnvironment", "signinTitleLabel"]
+- ["PSo18UIFocusEnvironment", "usernameField"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "image"]
+- ["CSo7UIImage", "deinit"]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo11UIImageView", "image"]
+- ["CSo11UIResponder", "UIButton"]
+- !private ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "UITextField"]
+- !private ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "passwordField"]
+- ["CSo11UIResponder", "signinButton"]
+- ["CSo11UIResponder", "signinImageView"]
+- ["CSo11UIResponder", "signinTitleLabel"]
+- ["CSo11UIResponder", "usernameField"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "UIImage"]
+- !private ["PSo30UIResponderStandardEditActions", "image"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "passwordField"]
+- ["PSo30UIResponderStandardEditActions", "signinButton"]
+- ["PSo30UIResponderStandardEditActions", "signinImageView"]
+- ["PSo30UIResponderStandardEditActions", "signinTitleLabel"]
+- ["PSo30UIResponderStandardEditActions", "usernameField"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "UIImage"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "passwordField"]
+- ["PSo16UIStateRestoring", "signinButton"]
+- ["PSo16UIStateRestoring", "signinImageView"]
+- ["PSo16UIStateRestoring", "signinTitleLabel"]
+- ["PSo16UIStateRestoring", "usernameField"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "passwordField"]
+- ["PSo18UITraitEnvironment", "signinButton"]
+- ["PSo18UITraitEnvironment", "signinImageView"]
+- ["PSo18UITraitEnvironment", "signinTitleLabel"]
+- ["PSo18UITraitEnvironment", "usernameField"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "image"]
+- ["CSo16UIViewController", "UIButton"]
+- !private ["CSo16UIViewController", "UIImage"]
+- ["CSo16UIViewController", "UIImageView"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "UITextField"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "passwordField"]
+- ["CSo16UIViewController", "signinButton"]
+- ["CSo16UIViewController", "signinImageView"]
+- ["CSo16UIViewController", "signinTitleLabel"]
+- ["CSo16UIViewController", "usernameField"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "image"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByImageLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "UIImage"]
+- !private ["Ps9_Hashable", "image"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "passwordField"]
+- ["Ps9_Hashable", "signinButton"]
+- ["Ps9_Hashable", "signinImageView"]
+- ["Ps9_Hashable", "signinTitleLabel"]
+- ["Ps9_Hashable", "usernameField"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "SQ"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "C11Drawing_App20SigninViewController"
+- "SS"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo7UIImage"
+- !private "CSo11UIImageView"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByImageLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "12733e3a47e263b3df07f031428e1224"

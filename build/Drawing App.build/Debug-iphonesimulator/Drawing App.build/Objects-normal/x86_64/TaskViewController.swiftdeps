@@ -1,0 +1,417 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "TaskViewController"
+provides-nominal:
+- "C11Drawing_App18TaskViewController"
+provides-member:
+- ["C11Drawing_App18TaskViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "taskTextView"
+- "taskGoButton"
+- "taskBackButton"
+- "taskScrollView"
+- "taskImageView"
+- "taskViewBG"
+- "taskContentView"
+- "taskLabel"
+depends-top-level:
+- "UIViewController"
+- "AssignmentPrecedence"
+- !private "UIImage"
+- "UIView"
+- "UITextView"
+- "UIImageView"
+- "UIScrollView"
+- "TaskViewController"
+- "UILabel"
+- "UIButton"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "UIImage"]
+- !private ["Ps9AnyObject", "image"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "taskBackButton"]
+- ["Ps9AnyObject", "taskContentView"]
+- ["Ps9AnyObject", "taskGoButton"]
+- ["Ps9AnyObject", "taskImageView"]
+- ["Ps9AnyObject", "taskLabel"]
+- ["Ps9AnyObject", "taskScrollView"]
+- ["Ps9AnyObject", "taskTextView"]
+- ["Ps9AnyObject", "taskViewBG"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", ""]
+- !private ["PSo15CALayerDelegate", "image"]
+- !private ["Ps7CVarArg", "UIImage"]
+- !private ["Ps7CVarArg", "image"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "taskBackButton"]
+- ["Ps7CVarArg", "taskContentView"]
+- ["Ps7CVarArg", "taskGoButton"]
+- ["Ps7CVarArg", "taskImageView"]
+- ["Ps7CVarArg", "taskLabel"]
+- ["Ps7CVarArg", "taskScrollView"]
+- ["Ps7CVarArg", "taskTextView"]
+- ["Ps7CVarArg", "taskViewBG"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "UIImage"]
+- !private ["Ps28CustomDebugStringConvertible", "image"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "taskBackButton"]
+- ["Ps28CustomDebugStringConvertible", "taskContentView"]
+- ["Ps28CustomDebugStringConvertible", "taskGoButton"]
+- ["Ps28CustomDebugStringConvertible", "taskImageView"]
+- ["Ps28CustomDebugStringConvertible", "taskLabel"]
+- ["Ps28CustomDebugStringConvertible", "taskScrollView"]
+- ["Ps28CustomDebugStringConvertible", "taskTextView"]
+- ["Ps28CustomDebugStringConvertible", "taskViewBG"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "UIImage"]
+- !private ["Ps23CustomStringConvertible", "image"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "taskBackButton"]
+- ["Ps23CustomStringConvertible", "taskContentView"]
+- ["Ps23CustomStringConvertible", "taskGoButton"]
+- ["Ps23CustomStringConvertible", "taskImageView"]
+- ["Ps23CustomStringConvertible", "taskLabel"]
+- ["Ps23CustomStringConvertible", "taskScrollView"]
+- ["Ps23CustomStringConvertible", "taskTextView"]
+- ["Ps23CustomStringConvertible", "taskViewBG"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "UIImage"]
+- !private ["Ps9Equatable", "image"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "taskBackButton"]
+- ["Ps9Equatable", "taskContentView"]
+- ["Ps9Equatable", "taskGoButton"]
+- ["Ps9Equatable", "taskImageView"]
+- ["Ps9Equatable", "taskLabel"]
+- ["Ps9Equatable", "taskScrollView"]
+- ["Ps9Equatable", "taskTextView"]
+- ["Ps9Equatable", "taskViewBG"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps32ExpressibleByStringInterpolation", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps8Hashable", "UIImage"]
+- !private ["Ps8Hashable", "image"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "taskBackButton"]
+- ["Ps8Hashable", "taskContentView"]
+- ["Ps8Hashable", "taskGoButton"]
+- ["Ps8Hashable", "taskImageView"]
+- ["Ps8Hashable", "taskLabel"]
+- ["Ps8Hashable", "taskScrollView"]
+- ["Ps8Hashable", "taskTextView"]
+- ["Ps8Hashable", "taskViewBG"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", ""]
+- ["SQ", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "UIImage"]
+- !private ["PSo8NSCoding", "image"]
+- !private ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "taskBackButton"]
+- ["PSo8NSCoding", "taskContentView"]
+- ["PSo8NSCoding", "taskGoButton"]
+- ["PSo8NSCoding", "taskImageView"]
+- ["PSo8NSCoding", "taskLabel"]
+- ["PSo8NSCoding", "taskScrollView"]
+- ["PSo8NSCoding", "taskTextView"]
+- ["PSo8NSCoding", "taskViewBG"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "UIImage"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "taskBackButton"]
+- ["PSo26NSExtensionRequestHandling", "taskContentView"]
+- ["PSo26NSExtensionRequestHandling", "taskGoButton"]
+- ["PSo26NSExtensionRequestHandling", "taskImageView"]
+- ["PSo26NSExtensionRequestHandling", "taskLabel"]
+- ["PSo26NSExtensionRequestHandling", "taskScrollView"]
+- ["PSo26NSExtensionRequestHandling", "taskTextView"]
+- ["PSo26NSExtensionRequestHandling", "taskViewBG"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "UIButton"]
+- !private ["CSo8NSObject", "UIImage"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "UIScrollView"]
+- ["CSo8NSObject", "UITextView"]
+- ["CSo8NSObject", "UIView"]
+- !private ["CSo8NSObject", "image"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "taskBackButton"]
+- ["CSo8NSObject", "taskContentView"]
+- ["CSo8NSObject", "taskGoButton"]
+- ["CSo8NSObject", "taskImageView"]
+- ["CSo8NSObject", "taskLabel"]
+- ["CSo8NSObject", "taskScrollView"]
+- ["CSo8NSObject", "taskTextView"]
+- ["CSo8NSObject", "taskViewBG"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "UIImage"]
+- !private ["PSo16NSObjectProtocol", "image"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "taskBackButton"]
+- ["PSo16NSObjectProtocol", "taskContentView"]
+- ["PSo16NSObjectProtocol", "taskGoButton"]
+- ["PSo16NSObjectProtocol", "taskImageView"]
+- ["PSo16NSObjectProtocol", "taskLabel"]
+- ["PSo16NSObjectProtocol", "taskScrollView"]
+- ["PSo16NSObjectProtocol", "taskTextView"]
+- ["PSo16NSObjectProtocol", "taskViewBG"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- ["Sq", "deinit"]
+- ["SS", "deinit"]
+- !private ["SS", "init"]
+- ["C11Drawing_App18TaskViewController", "UIButton"]
+- !private ["C11Drawing_App18TaskViewController", "UIImage"]
+- ["C11Drawing_App18TaskViewController", "UIImageView"]
+- ["C11Drawing_App18TaskViewController", "UILabel"]
+- ["C11Drawing_App18TaskViewController", "UIScrollView"]
+- ["C11Drawing_App18TaskViewController", "UITextView"]
+- ["C11Drawing_App18TaskViewController", "UIView"]
+- ["C11Drawing_App18TaskViewController", "deinit"]
+- ["C11Drawing_App18TaskViewController", "init"]
+- ["C11Drawing_App18TaskViewController", "taskBackButton"]
+- ["C11Drawing_App18TaskViewController", "taskContentView"]
+- ["C11Drawing_App18TaskViewController", "taskGoButton"]
+- ["C11Drawing_App18TaskViewController", "taskImageView"]
+- ["C11Drawing_App18TaskViewController", "taskLabel"]
+- ["C11Drawing_App18TaskViewController", "taskScrollView"]
+- ["C11Drawing_App18TaskViewController", "taskTextView"]
+- ["C11Drawing_App18TaskViewController", "taskViewBG"]
+- ["C11Drawing_App18TaskViewController", "viewDidLoad"]
+- !private ["Ps16TextOutputStream", "init"]
+- !private ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "image"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["PSo12UIAppearance", "image"]
+- !private ["PSo21UIAppearanceContainer", "UIImage"]
+- !private ["PSo21UIAppearanceContainer", "image"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "taskBackButton"]
+- ["PSo21UIAppearanceContainer", "taskContentView"]
+- ["PSo21UIAppearanceContainer", "taskGoButton"]
+- ["PSo21UIAppearanceContainer", "taskImageView"]
+- ["PSo21UIAppearanceContainer", "taskLabel"]
+- ["PSo21UIAppearanceContainer", "taskScrollView"]
+- ["PSo21UIAppearanceContainer", "taskTextView"]
+- ["PSo21UIAppearanceContainer", "taskViewBG"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "UIImage"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "taskBackButton"]
+- ["PSo18UIContentContainer", "taskContentView"]
+- ["PSo18UIContentContainer", "taskGoButton"]
+- ["PSo18UIContentContainer", "taskImageView"]
+- ["PSo18UIContentContainer", "taskLabel"]
+- ["PSo18UIContentContainer", "taskScrollView"]
+- ["PSo18UIContentContainer", "taskTextView"]
+- ["PSo18UIContentContainer", "taskViewBG"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "image"]
+- !private ["PSo13UIDynamicItem", "image"]
+- !private ["PSo18UIFocusEnvironment", "UIImage"]
+- !private ["PSo18UIFocusEnvironment", "image"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "taskBackButton"]
+- ["PSo18UIFocusEnvironment", "taskContentView"]
+- ["PSo18UIFocusEnvironment", "taskGoButton"]
+- ["PSo18UIFocusEnvironment", "taskImageView"]
+- ["PSo18UIFocusEnvironment", "taskLabel"]
+- ["PSo18UIFocusEnvironment", "taskScrollView"]
+- ["PSo18UIFocusEnvironment", "taskTextView"]
+- ["PSo18UIFocusEnvironment", "taskViewBG"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "image"]
+- ["CSo7UIImage", "deinit"]
+- !private ["CSo7UIImage", "init"]
+- !private ["CSo11UIImageView", "image"]
+- ["CSo11UIResponder", "UIButton"]
+- !private ["CSo11UIResponder", "UIImage"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "UIScrollView"]
+- ["CSo11UIResponder", "UITextView"]
+- ["CSo11UIResponder", "UIView"]
+- !private ["CSo11UIResponder", "image"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "taskBackButton"]
+- ["CSo11UIResponder", "taskContentView"]
+- ["CSo11UIResponder", "taskGoButton"]
+- ["CSo11UIResponder", "taskImageView"]
+- ["CSo11UIResponder", "taskLabel"]
+- ["CSo11UIResponder", "taskScrollView"]
+- ["CSo11UIResponder", "taskTextView"]
+- ["CSo11UIResponder", "taskViewBG"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- !private ["PSo30UIResponderStandardEditActions", "UIImage"]
+- !private ["PSo30UIResponderStandardEditActions", "image"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "taskBackButton"]
+- ["PSo30UIResponderStandardEditActions", "taskContentView"]
+- ["PSo30UIResponderStandardEditActions", "taskGoButton"]
+- ["PSo30UIResponderStandardEditActions", "taskImageView"]
+- ["PSo30UIResponderStandardEditActions", "taskLabel"]
+- ["PSo30UIResponderStandardEditActions", "taskScrollView"]
+- ["PSo30UIResponderStandardEditActions", "taskTextView"]
+- ["PSo30UIResponderStandardEditActions", "taskViewBG"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "UIImage"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "taskBackButton"]
+- ["PSo16UIStateRestoring", "taskContentView"]
+- ["PSo16UIStateRestoring", "taskGoButton"]
+- ["PSo16UIStateRestoring", "taskImageView"]
+- ["PSo16UIStateRestoring", "taskLabel"]
+- ["PSo16UIStateRestoring", "taskScrollView"]
+- ["PSo16UIStateRestoring", "taskTextView"]
+- ["PSo16UIStateRestoring", "taskViewBG"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "UIImage"]
+- !private ["PSo18UITraitEnvironment", "image"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "taskBackButton"]
+- ["PSo18UITraitEnvironment", "taskContentView"]
+- ["PSo18UITraitEnvironment", "taskGoButton"]
+- ["PSo18UITraitEnvironment", "taskImageView"]
+- ["PSo18UITraitEnvironment", "taskLabel"]
+- ["PSo18UITraitEnvironment", "taskScrollView"]
+- ["PSo18UITraitEnvironment", "taskTextView"]
+- ["PSo18UITraitEnvironment", "taskViewBG"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "image"]
+- ["CSo16UIViewController", "UIButton"]
+- !private ["CSo16UIViewController", "UIImage"]
+- ["CSo16UIViewController", "UIImageView"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "UIScrollView"]
+- ["CSo16UIViewController", "UITextView"]
+- ["CSo16UIViewController", "UIView"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "taskBackButton"]
+- ["CSo16UIViewController", "taskContentView"]
+- ["CSo16UIViewController", "taskGoButton"]
+- ["CSo16UIViewController", "taskImageView"]
+- ["CSo16UIViewController", "taskLabel"]
+- ["CSo16UIViewController", "taskScrollView"]
+- ["CSo16UIViewController", "taskTextView"]
+- ["CSo16UIViewController", "taskViewBG"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", ""]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "image"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps26_ExpressibleByImageLiteral", "init"]
+- !private ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "UIImage"]
+- !private ["Ps9_Hashable", "image"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "taskBackButton"]
+- ["Ps9_Hashable", "taskContentView"]
+- ["Ps9_Hashable", "taskGoButton"]
+- ["Ps9_Hashable", "taskImageView"]
+- ["Ps9_Hashable", "taskLabel"]
+- ["Ps9_Hashable", "taskScrollView"]
+- ["Ps9_Hashable", "taskTextView"]
+- ["Ps9_Hashable", "taskViewBG"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps32ExpressibleByStringInterpolation"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- "SQ"
+- !private "Ps25LosslessStringConvertible"
+- !private "Ps10MirrorPath"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- "Sq"
+- "SS"
+- "C11Drawing_App18TaskViewController"
+- !private "Ps16TextOutputStream"
+- !private "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- "CSo7UIImage"
+- !private "CSo11UIImageView"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps26_ExpressibleByImageLiteral"
+- !private "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "6b0e5e662030525305a5a7ceabd24f60"
